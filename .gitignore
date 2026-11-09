@@ -1,3 +1,13 @@
-.DS_Storage
+# macOS files
+.DS_Store
+**/.DS_Store
 
-.venv
+# Python virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Environment variables
+.env
